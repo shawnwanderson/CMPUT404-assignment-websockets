@@ -7,6 +7,13 @@ See requirements.org (plain-text) for a description of the project.
 
 Make a shared state Websockets drawing program
 
+Code Borrowed from
+==============================
+
+https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+and
+https://github.com/abramhindle/WebSocketsExamples/blob/master/static/chat.html
+
 Prereqs
 =======
 
